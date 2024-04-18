@@ -60,16 +60,17 @@ export default {
     >
       <h2 class="grid content-center">Min digitale profil</h2>
       <p class="grid content-center">
-        Jeg arbejder altid struktureret og konsekvent. Jeg kan arbejde
-        selvstændigt, men er også en teamplayer. Jeg kan kreere wireframes, lo-
-        og hi-fi prototyper baseret på afsender og modtager samt konventioner og
-        gestaltlove, og dermed deltage i planlægningen og beskrivelsen af den
-        optimale proces. <br />
-        Løbende i processen kan jeg teste ideer og prototyper og sikre at den
-        endelige løsning sender det rette signal, samt har et brugervenligt
-        interface. <br />
-        Derudover kan jeg lave grafiske illustrationer, filme og klippe videoer
-        i henholdsvis Abobe Illustrator og Premiere Pro.
+        Mit navn er Alberte Stærmose. Jeg er uddannet Multimediedesigner fra KEA
+        - Københavns Erhvervsakademi, og studerer lige nu Coded Design på DMJX -
+        Danamarks Medie- og Journalisthøjskole. Som digital designer arbejder
+        jeg altid struktureret og konsekvent. Jeg kan arbejde selvstændigt, men
+        er også en teamplayer. Med min uddannelse som multimediedesigner kan jeg
+        kode, lave grafisk materiale, tage billeder og lave video til
+        hjemmesider mm. Alt laves til rette målgruppe, med et visuelt design,
+        der passer til den visuelle identitet. Med Coded Design har jeg, og
+        udvider fortsat min kode erfaring. Jeg arbejder med både processing og
+        frontend-kode og kan bruge koden aktivt og kreativt. Udover kode har jeg
+        erfaring med adobepakken og Blender.
       </p>
     </div>
 

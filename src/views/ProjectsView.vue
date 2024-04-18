@@ -1,25 +1,81 @@
-<script></script>
+<script>
+import Card from "@/components/Card.vue";
+import CardImage from "@/components/CardImage.vue";
+
+export default {
+  name: "App",
+  components: {
+    Card,
+
+    CardImage,
+  },
+};
+</script>
 
 <template>
-  <body class="grid gap-24 bg-blue-300 py-20">
+  <body class="grid">
     <section class="flex items-end h-[40vh] px-32 justify-center bg-[#04151E]">
       <h1 class="text-white mb-8">Mine projekter</h1>
     </section>
 
     <section
-      class="text-white bg-slate-200 bg-contain bg-center bg-no-repeat h-[60vh] w-max relative justify-center group"
+      class="flex-wrap gap-8 pt-8 pb-8 align-middle flex justify-center px-8"
     >
-      <div class="h-full w-full flex items-center justify-center">
-        <img class="h-full w-auto" src="../components/img/test.jpg" alt="" />
+      <div>
+        <card
+          to="//"
+          name="Tuborgplakat"
+          description="Plakat mappet i processing"
+          video="/media/tuborgMandVideo.mp4"
+          width="w-max"
+          height="h-[50vh]"
+        />
+      </div>
+
+      <div>
+        <card
+          to="//"
+          name="Valør"
+          description="Møbelbutikken Valør"
+          video="/media/valør.mp4"
+          width="w-max"
+          height="h-[50vh]"
+        />
+      </div>
+      <div>
+        <CardImage
+          to="//"
+          name="SEA"
+          image="/media/seafont.webp"
+          description="Min egen font"
+          width="w-max"
+          height="h-[50vh]"
+        >
+        </CardImage>
+      </div>
+      <div>
+        <card
+          to="//"
+          name="Bullet Tounge"
+          description="Albumcover til fiktivt band med JavaScript"
+          video="/media/bullettounge.mov"
+          width="w-max"
+          height="h-[50vh]"
+        />
+      </div>
+      <div>
+        <CardImage
+          to="//"
+          name="ZoneClinic"
+          description="Hjemmeside til zoneterapeut"
+          image="/media/ZC.png"
+          width="w-max"
+          height="h-[50vh]"
+        >
+        </CardImage>
       </div>
     </section>
   </body>
 </template>
 
-<style>
-img {
-  max-width: 100%; /* Ensure the image doesn't exceed the width of its container */
-  max-height: 100%; /* Ensure the image doesn't exceed the height of its container */
-  object-fit: contain; /* Scale the image to maintain aspect ratio while fitting within the container */
-}
-</style>
+<style></style>

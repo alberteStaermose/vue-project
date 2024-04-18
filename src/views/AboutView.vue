@@ -14,17 +14,21 @@ export default {
       <h1 class="text-white mb-8">Alberte Stærmose</h1>
     </section>
 
-    <section class="grid grid-cols-2 px-32 gap-x-5 gap-y-16">
+    <section class="grid grid-cols-2 px-56 gap-x-20 gap-y-16">
       <div>
         <h2>Hvem er jeg?</h2>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat. Duis aute irure dolor in
-          reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-          pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-          culpa qui officia deserunt mollit anim id est laborum.
+          Mit navn er Alberte Stærmose. Jeg er uddannet Multimediedesigner fra
+          KEA - Københavns Erhvervsakademi, og studerer lige nu Coded Design på
+          DMJX - Danamarks Medie- og Journalisthøjskole. Som digital designer
+          arbejder jeg altid struktureret og konsekvent. Jeg kan arbejde
+          selvstændigt, men er også en teamplayer. Med min uddannelse som
+          multimediedesigner kan jeg kode, lave grafisk materiale, tage billeder
+          og lave video til hjemmesider mm. Alt laves til rette målgruppe, med
+          et visuelt design, der passer til den visuelle identitet. Med Coded
+          Design har jeg, og udvider fortsat min kode erfaring. Jeg arbejder med
+          både processing og frontend-kode og kan bruge koden aktivt og
+          kreativt. Udover kode har jeg erfaring med adobepakken og Blender.
         </p>
       </div>
 
@@ -34,15 +38,7 @@ export default {
 
       <div><img src="/public/media/mig.jpg" alt="" /></div>
       <div>
-        <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat. Duis aute irure dolor in
-          reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-          pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-          culpa qui officia deserunt mollit anim id est laborum.
-        </p>
+        <h2>Interesseret?</h2>
       </div>
     </section>
 
