@@ -76,7 +76,7 @@ export default {
     <div
       class="grid col-start-3 row-start-5 col-span-1 row-span-1 z-10 bg-[#04151E]"
     >
-      <CircleButton to="/about">Hej</CircleButton>
+      <CircleButton to="/about">Om mig</CircleButton>
     </div>
 
     <div

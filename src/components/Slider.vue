@@ -16,7 +16,7 @@ export default {
 
 <template>
   <section class="bg-[#04151E] my-32">
-    <h2 class="text-white text-center mb-7">Udvalgte projekter</h2>
+    <h2 class="text-white text-center mb-7">Mine projekter</h2>
 
     <article class="slider-wrapper">
       <div class="gallery">
@@ -53,15 +53,37 @@ export default {
           </CardImage>
         </div>
         <div>
+          <card
+            to="//"
+            name="Bullet Tounge"
+            description="Albumcover til fiktivt band med JavaScript"
+            video="/media/bullettounge.mov"
+            width="w-max"
+            height="h-[60vh]"
+          />
+        </div>
+        <div>
           <CardImage
             to="//"
             name="ZoneClinic"
-            description="This is an example description."
+            description="Hjemmeside til zoneterapeut"
             image="/media/ZC.png"
             width="w-max"
             height="h-[60vh]"
           >
           </CardImage>
+        </div>
+        <div class="w-[30vw] h-[60vh] px-10 grid content-center">
+          <div>
+            <h3 class="text-white">Se alle projekter mine projekter</h3>
+            <p class="text-white">
+              Jeg har et bredt udvalg af forskellige projekter af forskellige
+              størrelse og omfang. KLik ind og udforsk alle mine projekter.
+            </p>
+            <div class="px-20 pt-3">
+              <CircleButton to="/projekter">Projekter</CircleButton>
+            </div>
+          </div>
         </div>
       </div>
     </article>
