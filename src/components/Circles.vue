@@ -1,7 +1,7 @@
 <template>
-  <div class="group">
+  <div class="max-w-[13vw] max-h-[13vh] group">
     <div
-      class="max-w-[13vw] max-h-[13vh] bg-gradient-to-tr from-[#FFA35C] via-[#FF872A] to-[#FF6F00] aspect-square rounded-full self-center group-hover:scale-50 transition-all ease-in-out duration-300"
+      class="scale-[0.8] bg-gradient-to-tr from-[#FFA35C] via-[#FF872A] to-[#FF6F00] aspect-square rounded-full self-center group-hover:scale-50 transition-all ease-in-out duration-300"
     >
       <float></float>
     </div>

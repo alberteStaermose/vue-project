@@ -1,10 +1,15 @@
 <script>
-import Card from "@/components/Card.vue"; // Adjust the path as per your project structure
+import Card from "@/components/Card.vue";
+import CardImage from "@/components/CardImage.vue";
+
+import CircleButton from "./CircleButton.vue";
 
 export default {
   name: "App",
   components: {
     Card,
+    CircleButton,
+    CardImage,
   },
 };
 </script>
@@ -12,6 +17,7 @@ export default {
 <template>
   <section class="bg-[#04151E] my-32">
     <h2 class="text-white text-center mb-7">Udvalgte projekter</h2>
+
     <article class="slider-wrapper">
       <div class="gallery">
         <div>
@@ -19,7 +25,6 @@ export default {
             to="//"
             name="Tuborgplakat"
             description="Plakat mappet i processing"
-            image="'none'"
             video="/media/tuborgMandVideo.mp4"
             width="w-max"
             height="h-[60vh]"
@@ -37,27 +42,26 @@ export default {
           />
         </div>
         <div>
-          <card
+          <CardImage
             to="//"
-            name="Example Card"
-            description="This is an example card."
-            image="'none'"
-            still="/media/seafont.webp"
-            video="none"
+            name="SEA"
+            image="/media/seafont.webp"
+            description="Min egen font"
             width="w-max"
             height="h-[60vh]"
-          />
+          >
+          </CardImage>
         </div>
-
         <div>
-          <card
+          <CardImage
             to="//"
-            name="Valør"
-            description="Møbelbutikken Valør"
-            video="/media/valør.mp4"
+            name="ZoneClinic"
+            description="This is an example description."
+            image="/media/ZC.png"
             width="w-max"
             height="h-[60vh]"
-          />
+          >
+          </CardImage>
         </div>
       </div>
     </article>

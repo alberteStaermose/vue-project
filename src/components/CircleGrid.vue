@@ -58,8 +58,8 @@ export default {
     <div
       class="grid col-start-3 row-start-2 col-span-5 row-span-3 z-10 bg-[#04151E] text-left content-center"
     >
-      <h2 class="justify-items-center">Min digitale profil</h2>
-      <p class="">
+      <h2 class="grid content-center">Min digitale profil</h2>
+      <p class="grid content-center">
         Jeg arbejder altid struktureret og konsekvent. Jeg kan arbejde
         selvstændigt, men er også en teamplayer. Jeg kan kreere wireframes, lo-
         og hi-fi prototyper baseret på afsender og modtager samt konventioner og
@@ -76,14 +76,14 @@ export default {
     <div
       class="grid col-start-3 row-start-5 col-span-1 row-span-1 z-10 bg-[#04151E]"
     >
-      <SecondaryButton to="/about"> Om mig</SecondaryButton>
+      <CircleButton to="/about">Hej</CircleButton>
     </div>
 
     <div
-      class="grid col-start-9 row-start-3 col-span-2 row-span-3 top-0 z-10 bg-[#04151E]"
+      class="grid col-start-9 row-start-2 col-span-2 row-span-4 top-0 z-10 bg-[#04151E]"
     >
-      <h3 class="justify-items-center">Mine kompetencer</h3>
-      <ul class="list-disc list-outside grid text-left justify-center pl-3">
+      <h3 class="grid text-center content-center">Mine kompetencer</h3>
+      <ul class="list-disc list-inside grid text-left justify-center pl-3">
         <li>Adobe</li>
         <li>HTML</li>
         <li>CSS</li>

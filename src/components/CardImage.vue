@@ -11,10 +11,9 @@
       <p class="">{{ description }}</p>
     </div>
 
-    <video autoplay loop muted class="z-0 w-auto max-h-full object-cover">
-      <source :src="video" type="video/mp4" />
-      Your browser does not support the video tag.
-    </video>
+    <div class="h-full w-full flex items-center justify-center">
+      <img class="h-full w-auto" :src="image" alt="" />
+    </div>
   </RouterLink>
 </template>
 
@@ -26,25 +25,21 @@ export default {
     CircleButton,
   },
 
-  name: "Card",
+  name: "CardImage",
   props: {
     name: {
       type: String,
       default: "MANGLER NAVN!",
     },
-    still: {
+    image: {
       type: String,
       default: "'/media/test.jpg'",
-    },
-    video: {
-      type: String,
-      default:
-        "https://assets.mixkit.co/videos/preview/mixkit-set-of-plateaus-seen-from-the-heights-in-a-sunset-26070-large.mp4",
     },
     description: {
       type: String,
       default: "Lorem ipsum",
     },
+
     width: {
       type: [String, Number],
       default: "max-w-full",
@@ -58,5 +53,10 @@ export default {
 </script>
 
 <style>
+img {
+  max-width: 100%; /* Ensure the image doesn't exceed the width of its container */
+  max-height: 100%; /* Ensure the image doesn't exceed the height of its container */
+  object-fit: contain; /* Scale the image to maintain aspect ratio while fitting within the container */
+}
 /* Add your component-specific styles here */
 </style>

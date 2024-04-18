@@ -11,7 +11,7 @@ export default {
 </script>
 
 <template>
-  <div class="w-screen px-96 py-32">
+  <div class="w-screen px-96 pb-32">
     <div class="grid grid-cols-3 gap-10">
       <CircleButton> Linked-In </CircleButton>
       <CircleButton> Instagram </CircleButton>
