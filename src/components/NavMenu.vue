@@ -16,7 +16,7 @@ export default {
 <template>
   <header class="sticky top-0 z-20 hidden lg:block">
     <nav class="grid grid-cols-8 pl-5 pr-5 absolute top-0 w-full">
-      <CircleButton to="/home" class="col-start-1 text-6xl"> AS </CircleButton>
+      <CircleButton to="/home" class="col-start-1"> AS </CircleButton>
       <CircleButton to="/projekter" class="col-start-7"
         >Mine projekter</CircleButton
       >
