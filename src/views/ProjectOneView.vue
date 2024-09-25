@@ -9,7 +9,7 @@ export default {
 </script>
 
 <template>
-  <body class="grid gap-24">
+  <body class="grid gap-44">
     <section class="flex items-end h-[40vh] px-32 justify-center bg-[#04151E]">
       <h1 class="text-white mb-8">Valør</h1>
     </section>
@@ -32,8 +32,8 @@ export default {
     </section>
 
     <section class="mx-56">
-      <h2>Hvem er Valør?</h2>
-      <div class="grid grid-cols-2 gap-x-20 gap-y-16">
+      <article class="mx-32">
+        <h2>Hvem er Valør?</h2>
         <p>
           Valør er en møbelbutik der sælger dansk møbeldesign med fokus på
           farver, og på at sælge et realistisk billede af boligindretningen. Ved
@@ -52,35 +52,29 @@ export default {
           leve op til en perfekt oprydning. Ordende, enkelthed, rene klare
           linjer, farverig og legende beskriver altså Valørs tone of voice.
         </p>
-        <div>
-          <div>
-            <h3>Konkurrenter</h3>
-            <img src="/public/media/valor/Konkurrenter.jpg" alt="" />
-          </div>
-          <div>
-            <h3>Trends og tendenser</h3>
-            <img src="/public/media/valor/trendsOgTendenser.jpg" alt="" />
-          </div>
-        </div>
-      </div>
-    </section>
+      </article>
 
-    <section class="px-56 gap-x-20 gap-y-16">
       <div>
-        <h2>Valørs visuelle identitet</h2>
+        <h3>Konkurrenter</h3>
+        <img src="/public/media/valor/Konkurrenter.jpg" alt="" />
+      </div>
+      <div>
+        <h3>Trends og tendenser</h3>
+        <img src="/public/media/valor/trendsOgTendenser.jpg" alt="" />
       </div>
     </section>
 
     <section class="mx-56">
-      <h2>Billedestil</h2>
-
-      <div class="grid grid-cols-2 gap-x-20 gap-y-16">
+      <article class="mx-32">
+        <h2>Billedestil</h2>
         <p>
           Med fokus på farver og en mindre perfekt indretning har jeg genereret
           nogle eksempler på billeder til Valør. Billederne har jeg genereret
           med Midjourney.
         </p>
-      </div>
+      </article>
+
+      <div class="grid grid-cols-2 gap-x-20 gap-y-16"></div>
       <div class="grid grid-cols-4">
         <img src="/public/media/valor/fotostil/rum1.jpg" alt="" />
         <img src="/public/media/valor/fotostil/rum2.jpg" alt="" />
@@ -94,8 +88,8 @@ export default {
     </section>
 
     <section class="mx-56">
-      <h2>Farvepalette</h2>
-      <div class="grid grid-cols-2 gap-x-20 gap-y-16">
+      <article class="mx-32">
+        <h2>Farvepalette</h2>
         <p>
           Ud fra de genererede billeder har jeg skabt en bred farvepalette.
           Paletten har en bred vifte af farver fra farvecirklen, for at gøre det
@@ -106,13 +100,14 @@ export default {
           i kontrast til den brune, og skal visualisere valørs fokus på
           farver.​​​​​​​
         </p>
-        <img src="/public/media/valor/Farvepalette.jpg" alt="" />
-      </div>
+      </article>
+
+      <img src="/public/media/valor/Farvepalette.jpg" alt="" />
     </section>
 
     <section class="mx-56">
-      <h2>Typografisk navnetræk</h2>
-      <div class="grid grid-cols-2 gap-x-20 gap-y-16">
+      <article class="mx-32">
+        <h2>Typografisk navnetræk</h2>
         <p>
           Valørs navn er valgt ud fra fokus på farver. For at skabe en rød tråd
           mellem koncept og navn er ordet "Valør" valgt, da det er et begreb der
@@ -123,55 +118,53 @@ export default {
           samtidig harmonerer med "A"-stolen. Navntrækket har et enkelt og
           legende udtryk, med rene klare linjer.
         </p>
-        <img src="/public/media/valor/logoPosNeg.svg" alt="" />
+      </article>
+
+      <img src="/public/media/valor/logoPosNeg.svg" alt="" />
+    </section>
+
+    <section class="mx-56">
+      <article class="mx-32">
+        <h2>Illustrationer</h2>
+        <p>
+          Udover "A"-stolen har jeg illustreret flere møbler, der kan benyttes
+          på forskellige måder i den visuelle identitet. Dette har jeg gjort da
+          konkurrenterne ikke rigtig benytter sig af grafisk materiale, så med
+          dette kan valør skille sig ud fra konkurrenterne.
+        </p>
+      </article>
+
+      <div class="grid grid-cols-4">
+        <img src="/public/media/valor/a/aStol.svg" alt="" />
+        <img src="/public/media/valor/a/lampe1.svg" alt="" />
+        <img src="/public/media/valor/a/lampe2.svg" alt="" />
+        <img src="/public/media/valor/a/reol.svg" alt="" />
       </div>
     </section>
 
     <section class="mx-56">
-      <h2>Illustrationer</h2>
-      <div class="grid grid-cols-2 gap-x-20 gap-y-16">
-        <div>
-          <p>
-            Udover "A"-stolen har jeg illustreret flere møbler, der kan benyttes
-            på forskellige måder i den visuelle identitet. Dette har jeg gjort
-            da konkurrenterne ikke rigtig benytter sig af grafisk materiale, så
-            med dette kan valør skille sig ud fra konkurrenterne.
-          </p>
-        </div>
-        <div class="grid grid-cols-4">
-          <img src="/public/media/valor/a/aStol.svg" alt="" />
-          <img src="/public/media/valor/a/lampe1.svg" alt="" />
-          <img src="/public/media/valor/a/lampe2.svg" alt="" />
-          <img src="/public/media/valor/a/reol.svg" alt="" />
-        </div>
-      </div>
+      <article class="mx-32">
+        <h2>Animeret navnetræk</h2>
+        <p>
+          Med processing, har jeg kodet en animation af navnetrækket. Til det
+          animerede navnetræk var fokus igen her at lade den brune visualisere
+          natur, hvor møblerne der skiftevis skifter mellem farverne i paletten,
+          skal visualisere at - hos valør kan du trække farver ind i din
+          indretning. Du kan lege og kombinere ligesom du vil, der er masser af
+          muligheder.
+        </p>
+      </article>
+
+      <video controls>
+        <source src="/public/media/valør.mp4" type="video/mp4" />
+
+        Your browser does not support the video tag.
+      </video>
     </section>
 
     <section class="mx-56">
-      <h2>Animeret navnetræk</h2>
-      <div class="grid grid-cols-2 gap-x-20 gap-y-16">
-        <div>
-          <p>
-            Med processing, har jeg kodet en animation af navnetrækket. Til det
-            animerede navnetræk var fokus igen her at lade den brune visualisere
-            natur, hvor møblerne der skiftevis skifter mellem farverne i
-            paletten, skal visualisere at - hos valør kan du trække farver ind i
-            din indretning. Du kan lege og kombinere ligesom du vil, der er
-            masser af muligheder.
-          </p>
-        </div>
-
-        <video controls>
-          <source src="/public/media/valør.mp4" type="video/mp4" />
-
-          Your browser does not support the video tag.
-        </video>
-      </div>
-    </section>
-
-    <section class="mx-56">
-      <h2>Asset generator</h2>
-      <div class="grid grid-cols-2 gap-x-20 gap-y-16">
+      <article class="mx-32">
+        <h2>Asset generator</h2>
         <p>
           Også med processing har jeg opsat en kode med de forskellige
           illustrationer af møbler. Ved at stille på forskellige parametre, kan
@@ -183,8 +176,9 @@ export default {
           Se min asset generator og eksempel på brugervenligt interface til at
           stille på de forskellige parametre
         </p>
-        <img src="/public/media/valor/generator.png" alt="" />
-      </div>
+      </article>
+
+      <img src="/public/media/valor/generator.png" alt="" />
     </section>
 
     <section class="mx-56">
