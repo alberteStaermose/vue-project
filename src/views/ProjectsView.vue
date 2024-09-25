@@ -3,6 +3,7 @@ import { RouterLink, RouterView } from "vue-router";
 
 import Card from "@/components/Card.vue";
 import CardImage from "@/components/CardImage.vue";
+import Valor from "@/components/projects/Valor.vue";
 
 export default {
   name: "App",
@@ -10,6 +11,7 @@ export default {
     Card,
 
     CardImage,
+    Valor,
   },
 };
 </script>
@@ -23,6 +25,7 @@ export default {
     <section
       class="flex-wrap gap-8 pt-8 pb-8 align-middle flex justify-center px-8"
     >
+      <Valor height="h-[50vh]"></Valor>
       <div>
         <card
           to="src/views/AboutView.vue"

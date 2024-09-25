@@ -1,6 +1,7 @@
 <script>
 import Card from "@/components/Card.vue";
 import CardImage from "@/components/CardImage.vue";
+import Valor from "@/components/projects/Valor.vue";
 
 import CircleButton from "./CircleButton.vue";
 
@@ -10,6 +11,7 @@ export default {
     Card,
     CircleButton,
     CardImage,
+    Valor,
   },
 };
 </script>
@@ -20,6 +22,7 @@ export default {
 
     <article class="slider-wrapper">
       <div class="gallery">
+        <Valor height="h-[60vh]"></Valor>
         <div>
           <card
             to="//"
@@ -27,20 +30,10 @@ export default {
             description="Plakat mappet i processing"
             video="/media/tuborgMandVideo.mp4"
             width="w-max"
-            height="h-[60vh]"
+            height="h-[50vh]"
           />
         </div>
 
-        <div>
-          <card
-            to="//"
-            name="Valør"
-            description="Møbelbutikken Valør"
-            video="/media/valør.mp4"
-            width="w-max"
-            height="h-[60vh]"
-          />
-        </div>
         <div>
           <CardImage
             to="//"
@@ -48,7 +41,7 @@ export default {
             image="/media/seafont.webp"
             description="Min egen font"
             width="w-max"
-            height="h-[60vh]"
+            height="h-[50vh]"
           >
           </CardImage>
         </div>
@@ -59,7 +52,7 @@ export default {
             description="Albumcover til fiktivt band med JavaScript"
             video="/media/bullettounge.mov"
             width="w-max"
-            height="h-[60vh]"
+            height="h-[50vh]"
           />
         </div>
         <div>
@@ -69,11 +62,11 @@ export default {
             description="Hjemmeside til zoneterapeut"
             image="/media/ZC.png"
             width="w-max"
-            height="h-[60vh]"
+            height="h-[50vh]"
           >
           </CardImage>
         </div>
-        <div class="w-[30vw] h-[60vh] px-10 grid content-center">
+        <div class="w-[30vw] h-[50vh] px-10 grid content-center">
           <div>
             <h3 class="text-white">Se alle projekter mine projekter</h3>
             <p class="text-white">
