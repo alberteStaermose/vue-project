@@ -1,4 +1,6 @@
 <script>
+import { RouterLink, RouterView } from "vue-router";
+
 import Card from "@/components/Card.vue";
 import CardImage from "@/components/CardImage.vue";
 
@@ -23,7 +25,7 @@ export default {
     >
       <div>
         <card
-          to="//"
+          to="src/views/AboutView.vue"
           name="Tuborgplakat"
           description="Plakat mappet i processing"
           video="/media/tuborgMandVideo.mp4"
@@ -34,7 +36,7 @@ export default {
 
       <div>
         <card
-          to="//"
+          to="/projektEt"
           name="Valør"
           description="Møbelbutikken Valør"
           video="/media/valør.mp4"
