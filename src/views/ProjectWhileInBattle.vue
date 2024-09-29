@@ -90,8 +90,9 @@ export default {
         </p>
       </article>
 
-      <video autoplay loop muted class="z-0 w-auto max-h-full object-cover">
+      <video autoplay loop muted class="z-0 h-fit w-fit object-cover">
         <source
+          class="h-full"
           src="/public/media/whileInBattle/KampagnesiteMedInteraktivtElementJosefineAlberte.mp4"
           type="video/mp4"
         />
