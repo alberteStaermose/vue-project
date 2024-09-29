@@ -54,9 +54,9 @@ export default {
         </p>
       </article>
 
-      <video controls>
+      <video autoplay loop muted class="z-0 w-auto max-h-full object-cover">
         <source
-          src="/public/media/whileInBattle/KampagnesiteMedInteraktivtElementJosefineAlberte.mov"
+          src="/public/media/whileInBattle/KampagnesiteMedInteraktivtElementJosefineAlberte.mp4"
           type="video/mp4"
         />
 
