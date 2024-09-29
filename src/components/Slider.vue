@@ -2,6 +2,7 @@
 import Card from "@/components/Card.vue";
 import CardImage from "@/components/CardImage.vue";
 import Valor from "@/components/projects/Valor.vue";
+import WhileInBattle from "@/components/projects/WhileInBattle.vue";
 
 import CircleButton from "./CircleButton.vue";
 
@@ -12,6 +13,7 @@ export default {
     CircleButton,
     CardImage,
     Valor,
+    WhileInBattle,
   },
 };
 </script>
@@ -23,6 +25,7 @@ export default {
     <article class="slider-wrapper">
       <div class="gallery">
         <Valor height="h-[60vh]"></Valor>
+        <WhileInBattle height="h-[60vh]"></WhileInBattle>
         <div>
           <card
             to="//"
