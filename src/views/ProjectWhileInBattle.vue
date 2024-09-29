@@ -33,7 +33,43 @@ export default {
 
     <section class="mx-56">
       <article class="mx-32">
-        <h2>Hvem er Valør?</h2>
+        <h2>Moodboard</h2>
+        <p>
+          Ud fra de genererede billeder har jeg skabt en bred farvepalette.
+          Paletten har en bred vifte af farver fra farvecirklen, for at gøre det
+          muligt at kombinere så mange farver som muligt og skabe forskellige
+          kontraster. Den brune i farvepaletten skal visualisere dansk
+          møbeldesign og træ, men kan samtidig bruges som en basicfarve til fx
+          tekst. De resterende farver i farvepaletten er valgt for at kunne stå
+          i kontrast til den brune, og skal visualisere valørs fokus på
+          farver.​​​​​​​
+        </p>
+      </article>
+
+      <img src="/public/media/whileInBattle/FarveMoodboard.jpg" alt="" />
+    </section>
+
+    <section class="mx-56">
+      <article class="mx-32">
+        <h2>Visuel identitet</h2>
+        <p>
+          Ud fra de genererede billeder har jeg skabt en bred farvepalette.
+          Paletten har en bred vifte af farver fra farvecirklen, for at gøre det
+          muligt at kombinere så mange farver som muligt og skabe forskellige
+          kontraster. Den brune i farvepaletten skal visualisere dansk
+          møbeldesign og træ, men kan samtidig bruges som en basicfarve til fx
+          tekst. De resterende farver i farvepaletten er valgt for at kunne stå
+          i kontrast til den brune, og skal visualisere valørs fokus på
+          farver.​​​​​​​
+        </p>
+      </article>
+
+      <img src="/public/media/whileInBattle/styletyle.png" alt="" />
+    </section>
+
+    <section class="mx-56">
+      <article class="mx-32">
+        <h2>Kampagnesite</h2>
         <p>
           Valør er en møbelbutik der sælger dansk møbeldesign med fokus på
           farver, og på at sælge et realistisk billede af boligindretningen. Ved
@@ -62,11 +98,17 @@ export default {
 
         Your browser does not support the video tag.
       </video>
+      <div class="grid grid-cols-4">
+        <img src="/public/media/whileInBattle/lightRed.png" alt="" />
+        <img src="/public/media/whileInBattle/lightOrange.png" alt="" />
+        <img src="/public/media/whileInBattle/lightGreen.png" alt="" />
+        <img src="/public/media/whileInBattle/lightBlue.png" alt="" />
+      </div>
     </section>
 
     <section class="mx-56">
       <article class="mx-32">
-        <h2>Billedestil</h2>
+        <h2>Fysisk installation</h2>
         <p>
           Med fokus på farver og en mindre perfekt indretning har jeg genereret
           nogle eksempler på billeder til Valør. Billederne har jeg genereret
@@ -75,122 +117,21 @@ export default {
       </article>
 
       <div class="grid grid-cols-2 gap-x-20 gap-y-16"></div>
-      <div class="grid grid-cols-4">
-        <img src="/public/media/valor/fotostil/rum1.jpg" alt="" />
-        <img src="/public/media/valor/fotostil/rum2.jpg" alt="" />
-        <img src="/public/media/valor/fotostil/rum3.jpg" alt="" />
-        <img src="/public/media/valor/fotostil/rum4.jpg" alt="" />
-        <img src="/public/media/valor/fotostil/rum5.jpg" alt="" />
-        <img src="/public/media/valor/fotostil/rum6.jpg" alt="" />
-        <img src="/public/media/valor/fotostil/rum7.jpg" alt="" />
-        <img src="/public/media/valor/fotostil/rum8.jpg" alt="" />
+      <div class="grid grid-cols-2">
+        <img
+          src="/public/media/whileInBattle/MockupFysiskInstallationJosefineAlberte.png"
+          alt=""
+        />
+        <video autoplay loop muted class="z-0 h-full object-cover">
+          <source
+            class="h-full"
+            src="/public/media/whileInBattle/FysiskInstallationVideoJosefineAlberte.mp4"
+            type="video/mp4"
+          />
+
+          Your browser does not support the video tag.
+        </video>
       </div>
-    </section>
-
-    <section class="mx-56">
-      <article class="mx-32">
-        <h2>Farvepalette</h2>
-        <p>
-          Ud fra de genererede billeder har jeg skabt en bred farvepalette.
-          Paletten har en bred vifte af farver fra farvecirklen, for at gøre det
-          muligt at kombinere så mange farver som muligt og skabe forskellige
-          kontraster. Den brune i farvepaletten skal visualisere dansk
-          møbeldesign og træ, men kan samtidig bruges som en basicfarve til fx
-          tekst. De resterende farver i farvepaletten er valgt for at kunne stå
-          i kontrast til den brune, og skal visualisere valørs fokus på
-          farver.​​​​​​​
-        </p>
-      </article>
-
-      <img src="/public/media/valor/Farvepalette.jpg" alt="" />
-    </section>
-
-    <section class="mx-56">
-      <article class="mx-32">
-        <h2>Typografisk navnetræk</h2>
-        <p>
-          Valørs navn er valgt ud fra fokus på farver. For at skabe en rød tråd
-          mellem koncept og navn er ordet "Valør" valgt, da det er et begreb der
-          beskriver en farves intensitet. Til navnetrækket har jeg illustreret
-          en "A"-stol, altså en stol der ligner et A. Dette er gjort for at give
-          navnetrækket, et mere legende udseende. Fonten "Genoa" er valgt til
-          navnetrækket da den udstråler noget enkelthed og noget moderne, men
-          samtidig harmonerer med "A"-stolen. Navntrækket har et enkelt og
-          legende udtryk, med rene klare linjer.
-        </p>
-      </article>
-
-      <img src="/public/media/valor/logoPosNeg.svg" alt="" />
-    </section>
-
-    <section class="mx-56">
-      <article class="mx-32">
-        <h2>Illustrationer</h2>
-        <p>
-          Udover "A"-stolen har jeg illustreret flere møbler, der kan benyttes
-          på forskellige måder i den visuelle identitet. Dette har jeg gjort da
-          konkurrenterne ikke rigtig benytter sig af grafisk materiale, så med
-          dette kan valør skille sig ud fra konkurrenterne.
-        </p>
-      </article>
-
-      <div class="grid grid-cols-4">
-        <img src="/public/media/valor/a/aStol.svg" alt="" />
-        <img src="/public/media/valor/a/lampe1.svg" alt="" />
-        <img src="/public/media/valor/a/lampe2.svg" alt="" />
-        <img src="/public/media/valor/a/reol.svg" alt="" />
-      </div>
-    </section>
-
-    <section class="mx-56">
-      <article class="mx-32">
-        <h2>Animeret navnetræk</h2>
-        <p>
-          Med processing, har jeg kodet en animation af navnetrækket. Til det
-          animerede navnetræk var fokus igen her at lade den brune visualisere
-          natur, hvor møblerne der skiftevis skifter mellem farverne i paletten,
-          skal visualisere at - hos valør kan du trække farver ind i din
-          indretning. Du kan lege og kombinere ligesom du vil, der er masser af
-          muligheder.
-        </p>
-      </article>
-
-      <video controls>
-        <source src="/public/media/valør.mp4" type="video/mp4" />
-
-        Your browser does not support the video tag.
-      </video>
-    </section>
-
-    <section class="mx-56">
-      <article class="mx-32">
-        <h2>Asset generator</h2>
-        <p>
-          Også med processing har jeg opsat en kode med de forskellige
-          illustrationer af møbler. Ved at stille på forskellige parametre, kan
-          man genere en masse forskellige mønstre, der kan tilpasses alt efter
-          hvad de ønskes at bruge til, helt uden at miste Valørs visuelle
-          identitet. Nedenfor kan eksempler, på forskellige mønstre og eksempler
-          på hvad de kan bruges, ses. <br />
-          <br />
-          Se min asset generator og eksempel på brugervenligt interface til at
-          stille på de forskellige parametre
-        </p>
-      </article>
-
-      <img src="/public/media/valor/generator.png" alt="" />
-    </section>
-
-    <section class="mx-56">
-      <p>Eksempler på eksporterede mønstre, genereret med asset generatoren</p>
-      <img src="/public/media/valor/genereret1.png" alt="" />
-      <img src="/public/media/valor/genereret2.png" alt="" />
-    </section>
-
-    <section class="mx-56">
-      <p>Eksempler på hvad de forskellige mønstre kan bruges til</p>
-      <img src="/public/media/valor/samletAsset1.png" alt="" />
-      <img src="/public/media/valor/samletAsset2.png" alt="" />
     </section>
 
     <Kontakt></Kontakt>
