@@ -11,9 +11,7 @@
       <p class="">{{ description }}</p>
     </div>
 
-    <div class="h-full w-full flex items-center justify-center">
-      <img class="h-full w-auto" :src="image" alt="" />
-    </div>
+    <img class="z-0 h-fit w-full" :src="image" alt="" />
   </RouterLink>
 </template>
 
