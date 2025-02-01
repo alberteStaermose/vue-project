@@ -3,6 +3,7 @@ import Card from "@/components/Card.vue";
 import CardImage from "@/components/CardImage.vue";
 import Valor from "@/components/projects/Valor.vue";
 import WhileInBattle from "@/components/projects/WhileInBattle.vue";
+import PolitikenPlus from "@/components/projects/PolitikenPlus.vue";
 
 import CircleButton from "./CircleButton.vue";
 
@@ -14,6 +15,7 @@ export default {
     CardImage,
     Valor,
     WhileInBattle,
+    PolitikenPlus,
   },
 };
 </script>
@@ -26,6 +28,9 @@ export default {
       <div class="gallery">
         <Valor height="h-[60vh]"></Valor>
         <WhileInBattle height="h-[60vh]"></WhileInBattle>
+
+        <PolitikenPlus height="h-[60vh]"></PolitikenPlus>
+
         <div>
           <card
             to="//"

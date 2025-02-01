@@ -5,7 +5,7 @@
   >
     <div
       id="text"
-      class="z-10 absolute top-0 w-full h-full hidden group-hover:block hover:bg-[#00209295] p-2 text-end"
+      class="z-10 absolute top-0 w-full h-full hidden group-hover:block hover:bg-[#002092] p-2 text-center content-center"
     >
       <h3 class="">{{ name }}</h3>
       <p class="">{{ description }}</p>
