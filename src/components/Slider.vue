@@ -4,6 +4,7 @@ import CardImage from "@/components/CardImage.vue";
 import Valor from "@/components/projects/Valor.vue";
 import WhileInBattle from "@/components/projects/WhileInBattle.vue";
 import PolitikenPlus from "@/components/projects/PolitikenPlus.vue";
+import Samyang from "@/components/projects/Samyang.vue";
 
 import CircleButton from "./CircleButton.vue";
 
@@ -16,6 +17,7 @@ export default {
     Valor,
     WhileInBattle,
     PolitikenPlus,
+    Samyang,
   },
 };
 </script>
@@ -30,6 +32,7 @@ export default {
         <WhileInBattle height="h-[60vh]"></WhileInBattle>
 
         <PolitikenPlus height="h-[60vh]"></PolitikenPlus>
+        <Samyang height="h-[60vh]"></Samyang>
 
         <div>
           <card
@@ -97,5 +100,8 @@ export default {
   font-size: 0;
   overflow-x: auto;
   grid-template-columns: repeat(14, 1fr);
+  column-gap: 20px;
+  padding: 50px;
+  background-color: #00209290;
 }
 </style>

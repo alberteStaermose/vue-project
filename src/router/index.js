@@ -5,6 +5,7 @@ import ProjectsView from "../views/ProjectsView.vue";
 import ProjectOneView from "../views/ProjectOneView.vue";
 import ProjectWhileInBattle from "../views/ProjectWhileInBattle.vue";
 import ProjectPolitikenPlus from "../views/ProjectPolitikenPlus.vue";
+import ProjectSamyang from "../views/ProjectSamyang.vue";
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -43,6 +44,12 @@ const router = createRouter({
       name: "projectPolitikenPlus",
 
       component: ProjectPolitikenPlus,
+    },
+    {
+      path: "/projectSamyang",
+      name: "projectSamyang",
+
+      component: ProjectSamyang,
     },
   ],
 });
