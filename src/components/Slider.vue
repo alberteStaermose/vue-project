@@ -101,7 +101,9 @@ export default {
   overflow-x: auto;
   grid-template-columns: repeat(14, 1fr);
   column-gap: 20px;
-  padding: 50px;
-  background-color: #00209290;
+  margin-left: 50px;
+  background-color: #04151e;
+  scrollbar-width: thin; /* Gør scrollbaren synlig og tynd */
+  scrollbar-color: #fe675c #04151e; /* Thumb & track farver */
 }
 </style>
