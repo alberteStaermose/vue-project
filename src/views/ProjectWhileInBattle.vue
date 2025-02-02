@@ -18,11 +18,11 @@ export default {
       <div>
         <h2>Opgaven</h2>
         <p>
-          Opgaven gik ud på at opsætte en visuel identitet, animere et
-          navnetræk, samt lave en asset generator til en fiktiv kunde. Jeg fik
-          tildelt, møbelbutik og har fra research, viden om form, farver,
-          typografi, tegning, kreativitet og programmering udarbejdet
-          møbelbutikken Valør.
+          Dette var en skoleopgave og den gik ud på at opsætte en visuel
+          identitet, animere et navnetræk, samt lave en asset generator til en
+          fiktiv kunde. Jeg fik tildelt, møbelbutik og har fra research, viden
+          om form, farver, typografi, tegning, kreativitet og programmering
+          udarbejdet møbelbutikken Valør.
         </p>
       </div>
 

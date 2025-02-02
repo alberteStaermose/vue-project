@@ -11,19 +11,19 @@ export default {
 <template>
   <body class="grid gap-44">
     <section class="flex items-end h-[40vh] px-32 justify-center bg-[#04151E]">
-      <h1 class="text-white mb-8">Samyang Foods</h1>
+      <h1 class="text-white mb-8">Café Sonja</h1>
     </section>
 
     <section class="grid grid-cols-2 px-56 gap-x-20 gap-y-16">
       <div>
         <h2>Opgaven</h2>
         <p>
-          Dette var en skoleopgave og den gik ud på at finde et brand som vi
-          kunne se potentiale i ved en rebranding. Jeg valgte Samyang Foods, da
-          alle nudler på hylderne i Danmark ikke visuelt er så forskellige. MIn
-          rebranding har fokus på Samyang Foods som et paraply brand, hvis
-          visuelle identitet skal skinne igennem på alle deres produkter, og jeg
-          har derfor også fokuseret på deres "Original" nudler.
+          Opgaven gik ud på at finde et brand som vi kunne se potentiale i ved
+          en rebranding. Jeg valgte Samyang Foods, da alle nudler på hylderne i
+          Danmark ikke visuelt er så forskellige. MIn rebranding har fokus på
+          Samyang Foods som et paraply brand, hvis visuelle identitet skal
+          skinne igennem på alle deres produkter, og jeg har derfor også
+          fokuseret på deres "Original" nudler.
         </p>
       </div>
 

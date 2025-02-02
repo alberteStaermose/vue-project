@@ -18,9 +18,9 @@ export default {
       <div>
         <h2>Opgaven</h2>
         <p>
-          Opgaven var en gruppeopgave og den gik ud på at rebrande Politiken
-          Plus med fokus på at tiltrække en yngre målgruppe til deres fordels
-          univers. Vores løsning var Politiken Puls
+          Dette var en skoleopgave i grupper og den gik ud på at rebrande
+          Politiken Plus med fokus på at tiltrække en yngre målgruppe til deres
+          fordels univers. Vores løsning var Politiken Puls
         </p>
       </div>
 

@@ -5,6 +5,7 @@ import Valor from "@/components/projects/Valor.vue";
 import WhileInBattle from "@/components/projects/WhileInBattle.vue";
 import PolitikenPlus from "@/components/projects/PolitikenPlus.vue";
 import Samyang from "@/components/projects/Samyang.vue";
+import CafeSonja from "@/components/projects/CafeSonja.vue";
 
 import CircleButton from "./CircleButton.vue";
 
@@ -18,6 +19,7 @@ export default {
     WhileInBattle,
     PolitikenPlus,
     Samyang,
+    CafeSonja,
   },
 };
 </script>
@@ -33,6 +35,7 @@ export default {
 
         <PolitikenPlus height="h-[60vh]"></PolitikenPlus>
         <Samyang height="h-[60vh]"></Samyang>
+        <CafeSonja></CafeSonja>
 
         <div>
           <card
@@ -105,5 +108,6 @@ export default {
   background-color: #04151e;
   scrollbar-width: thin; /* Gør scrollbaren synlig og tynd */
   scrollbar-color: #fe675c #04151e; /* Thumb & track farver */
+  overflow-x: scroll;
 }
 </style>
