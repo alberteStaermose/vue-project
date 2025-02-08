@@ -31,62 +31,16 @@ export default {
         <img src="/public/media/samyang/samyangOgMarkedet.png" alt="" />
       </div>
     </section>
+
     <section class="px-56">
       <article class="mb-20">
         <h2>Løsning</h2>
-        <img src="/public/media/samyang/samyangVisuelidentitet.png" alt="" />
+        <p>Løsningen er baseret på en dybdegående research af Café Sonja.</p>
       </article>
-      <article class="gap-y-16 mb-20">
-        <div class="grid grid-cols-2 gap-x-20 gap-y-16 mb-5">
-          <div>
-            <h3>Logo og tagline</h3>
-            <img src="/public/media/samyang/samyangLogos.png" alt="" />
-          </div>
 
-          <div>
-            <h3>Nuddelindpakning</h3>
-            <img src="/public/media/samyang/samyangNuddel.png" alt="" />
-          </div>
-
-          <div>
-            <h3>Hjemmeside</h3>
-            <p>
-              Vi har skabt et helt nyt unviers til Politiken Plus, som vi har
-              valgt at kalde Politiken Puls. Til Politiken Puls, har vi udviklet
-              en ny startegi, en ny visuel identet og en prototype til en ny
-              hjemmeside.
-            </p>
-            <img src="/public/media/samyang/samyangLogos.png" alt="" />
-          </div>
-        </div>
-      </article>
-    </section>
-    <section class="px-56">
-      <h2>Process</h2>
-
-      <article class="gap-y-16 mb-20">
-        <div class="gap-x-20 gap-y-16 mb-5">
-          <div class="mb-5">
-            <h3>Research og indsigter</h3>
-            <p>
-              Ud fra en dybdegående research kom vi frem til en strategi til
-              Politken Plus. Vi gjorde en dyd af at researche på Politken og
-              Politiken Plus, både visuelt og verbalt for at få et klar overblik
-              over hvem Politiken er. Udover det, indsamlede vi en masse data på
-              eksisterende og mulige forbrugere af Politiken Plus for at få en
-              forståelse for deres behov. For at få et overblik over markedet og
-              hvor Politiken Plus nye posititon kunne være, undersøgte vi
-              hvordan konkurrenterne både kommunikerer visuelt og verbalt og
-              hvordan de havde løst og opsat deres fordelsuniverser. Til sidst
-              undersøgte vi kulturen for at finde frem til trends og tendenser
-              vi kunne tappe ind i.
-            </p>
-          </div>
-          <div class="grid grid-cols-2 gap-x-20 gap-y-16 mb-10">
-            <img src="/public/media/samyang/samyangResearch.png" alt="" />
-            <img src="/public/media/samyang/samyang4c.png" alt="" />
-          </div>
-          <div class="mb-5">
+      <article class="grid gap-20">
+        <div>
+          <div class="">
             <h3>Strategi</h3>
             <p>
               Ud fra vores research kom vi frem til en ny strategi til Politiken
@@ -95,14 +49,40 @@ export default {
               identitet.
             </p>
           </div>
-          <div class="grid grid-cols-4 gap-y-16 mb-10">
-            <img src="/public/media/samyang/samyangStrategi1.png" alt="" />
-            <img src="/public/media/samyang/samyangStrategi2.png" alt="" />
-            <img src="/public/media/samyang/samyangStrategi3.png" alt="" />
-            <img src="/public/media/samyang/samyangStrategi4.png" alt="" />
+          <div class="grid grid-cols-3 gap-y-16 mb-10">
+            <img src="/public/media/sonja/sonjaStrategi1.png" alt="" />
+            <img src="/public/media/sonja/sonjaStrategi2.png" alt="" />
+            <img src="/public/media/sonja/sonjaStrategi3.png" alt="" />
           </div>
-          <div class="mb-5">
-            <h3>Visuel identitet inspiration</h3>
+        </div>
+        <div>
+          <div>
+            <div class="mb-5">
+              <h3>Verbal identitet</h3>
+              <p>
+                Ud fra en dybdegående research kom vi frem til en strategi til
+                Politken Plus. Vi gjorde en dyd af at researche på Politken og
+                Politiken Plus, både visuelt og verbalt for at få et klar
+                overblik over hvem Politiken er. Udover det, indsamlede vi en
+                masse data på eksisterende og mulige forbrugere af Politiken
+                Plus for at få en forståelse for deres behov. For at få et
+                overblik over markedet og hvor Politiken Plus nye posititon
+                kunne være, undersøgte vi hvordan konkurrenterne både
+                kommunikerer visuelt og verbalt og hvordan de havde løst og
+                opsat deres fordelsuniverser. Til sidst undersøgte vi kulturen
+                for at finde frem til trends og tendenser vi kunne tappe ind i.
+              </p>
+            </div>
+            <div class="grid grid-cols-3 gap-y-16 mb-10">
+              <img src="/public/media/sonja/sonjaToneOfVoice.png" alt="" />
+              <img src="/public/media/sonja/sonjaManifest.png" alt="" />
+              <img src="/public/media/sonja/sonjaTagline.png" alt="" />
+            </div>
+          </div>
+        </div>
+        <div>
+          <div class="">
+            <h3>Visuel identitet</h3>
             <p>
               Ud fra vores research kom vi frem til en ny strategi til Politiken
               Plus, som er den der ligger til grund for vores løsning -
@@ -111,15 +91,15 @@ export default {
             </p>
           </div>
           <div class="grid grid-cols-2 gap-20 gap-y-16 mb-10">
-            <div>
-              <img src="/public/media/samyang/samyangKoreaVisuelt.png" alt="" />
-              <img src="/public/media/samyang/samyangMinwha.png" alt="" />
-            </div>
-
-            <img src="/public/media/samyang/samyangLogoInspo.png" alt="" />
+            <img src="/public/media/sonja/sonjaLogo2.png" alt="" />
+            <img src="/public/media/sonja/sonjaBilledstil.png" alt="" />
+            <img src="/public/media/sonja/sonjaGrafik.png" alt="" />
+            <img src="/public/media/sonja/sonjaFarver.png" alt="" />
           </div>
-          <div class="mb-5">
-            <h3>Logo</h3>
+        </div>
+        <div>
+          <div class="">
+            <h3>Identiteten i brug</h3>
             <p>
               Ud fra vores research kom vi frem til en ny strategi til Politiken
               Plus, som er den der ligger til grund for vores løsning -
@@ -127,44 +107,18 @@ export default {
               identitet.
             </p>
           </div>
-          <div class="grid grid-cols-2 gap-20 gap-y-16 mb-10">
-            <div>
-              <img src="/public/media/samyang/samyangSkitser.png" alt="" />
-              <img src="/public/media/samyang/samyangLogoSkitser.png" alt="" />
-            </div>
-            <img src="/public/media/samyang/samyangLogos.png" alt="" />
+          <div class="grid grid-cols-1 gap-20 gap-y-16 ml-40 mr-40">
+            <img src="/public/media/sonja/sonjaInsta.png" alt="" />
+            <img src="/public/media/sonja/sonjaMenu.png" alt="" />
           </div>
-          <div class="mb-5">
-            <h3>Farver</h3>
-            <p>
-              Ud fra vores research kom vi frem til en ny strategi til Politiken
-              Plus, som er den der ligger til grund for vores løsning -
-              Politiken Plus nye navn "Politken Puls" og den nye visuelle
-              identitet.
-            </p>
-            <img src="/public/media/samyang/samyangFarver.png" alt="" />
-          </div>
-
-          <div class="mb-5">
-            <h3>Grafik</h3>
-            <p>
-              Ud fra vores research kom vi frem til en ny strategi til Politiken
-              Plus, som er den der ligger til grund for vores løsning -
-              Politiken Plus nye navn "Politken Puls" og den nye visuelle
-              identitet.
-            </p>
-            <img src="/public/media/samyang/samyangGrafik.png" alt="" />
+        </div>
+        <div>
+          <div class="">
+            <h3>Samlet overblik</h3>
+            <img src="/public/media/sonja/sonjaIdentitet.png" alt="" />
           </div>
         </div>
       </article>
-
-      <section>
-        <article class="px-56 gap-x-20 gap-y-16">
-          <h2>Før og efter</h2>
-        </article>
-
-        <img src="/public/media/samyang/samyangFørEfter.png" alt="" />
-      </section>
     </section>
 
     <Kontakt></Kontakt>

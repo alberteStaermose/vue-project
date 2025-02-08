@@ -6,6 +6,8 @@ import WhileInBattle from "@/components/projects/WhileInBattle.vue";
 import PolitikenPlus from "@/components/projects/PolitikenPlus.vue";
 import Samyang from "@/components/projects/Samyang.vue";
 import CafeSonja from "@/components/projects/CafeSonja.vue";
+import Tuborg from "@/components/projects/Tuborg.vue";
+import Blender from "@/components/projects/BlenderIsland.vue";
 
 import CircleButton from "./CircleButton.vue";
 
@@ -20,6 +22,8 @@ export default {
     PolitikenPlus,
     Samyang,
     CafeSonja,
+    Tuborg,
+    Blender,
   },
 };
 </script>
@@ -36,17 +40,8 @@ export default {
         <PolitikenPlus height="h-[60vh]"></PolitikenPlus>
         <Samyang height="h-[60vh]"></Samyang>
         <CafeSonja></CafeSonja>
-
-        <div>
-          <card
-            to="//"
-            name="Tuborgplakat"
-            description="Plakat mappet i processing"
-            video="/media/tuborgMandVideo.mp4"
-            width="w-max"
-            height="h-[50vh]"
-          />
-        </div>
+        <Tuborg></Tuborg>
+        <Blender></Blender>
 
         <div>
           <CardImage
