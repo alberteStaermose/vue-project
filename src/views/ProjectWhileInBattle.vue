@@ -27,7 +27,7 @@ export default {
       </div>
 
       <div>
-        <img src="/public/media/whileInBattle/whilePlakat.png" alt="" />
+        <!-- <img src="/public/media/whileInBattle/whilePlakat.png" alt="" /> -->
       </div>
     </section>
 
