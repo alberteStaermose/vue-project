@@ -18,7 +18,7 @@ export default {
     <CardImage
       to="/projektWhileInBattle"
       name="Danseforestilling"
-      image="/media/whileInBattle/main.png"
+      image="/media/whileInBattle/whilePlakat.png"
       description="Visuel identitet til danseforestillingen While In Battle"
       width="w-max"
       height="h-[50vh]"
