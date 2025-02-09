@@ -8,7 +8,7 @@
         </div>
       </div>
 
-      <video
+      <!-- <video
         autoplay
         loop
         muted
@@ -19,7 +19,7 @@
           src="./img/cirklerNy.mp4 "
           type="video/mp4"
         />
-      </video>
+      </video> -->
     </div>
 
     <!-- <div class="bg-rose-300">
