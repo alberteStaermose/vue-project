@@ -28,24 +28,24 @@ export default {
       </div>
 
       <div>
-        <img src="/media/samyang/samyangOgMarkedet.png" alt="" />
+        <img src="/media/samyangOgMarkedet.png" alt="" />
       </div>
     </section>
     <section class="px-56">
       <article class="mb-20">
         <h2>Løsning</h2>
-        <img src="/media/samyang/samyangVisuelidentitet.png" alt="" />
+        <img src="/media/samyangVisuelidentitet.png" alt="" />
       </article>
       <article class="gap-y-16 mb-20">
         <div class="grid grid-cols-2 gap-x-20 gap-y-16 mb-5">
           <div>
             <h3>Logo og tagline</h3>
-            <img src="/media/samyang/samyangLogos.png" alt="" />
+            <img src="/media/samyangLogos.png" alt="" />
           </div>
 
           <div>
             <h3>Nuddelindpakning</h3>
-            <img src="/media/samyang/samyangNuddel.png" alt="" />
+            <img src="/media/samyangNuddel.png" alt="" />
           </div>
 
           <div>
@@ -56,7 +56,7 @@ export default {
               en ny startegi, en ny visuel identet og en prototype til en ny
               hjemmeside.
             </p>
-            <img src="/media/samyang/samyangLogos.png" alt="" />
+            <img src="/media/samyangLogos.png" alt="" />
           </div>
         </div>
       </article>
@@ -83,8 +83,8 @@ export default {
             </p>
           </div>
           <div class="grid grid-cols-2 gap-x-20 gap-y-16 mb-10">
-            <img src="/media/samyang/samyangResearch.png" alt="" />
-            <img src="/media/samyang/samyang4c.png" alt="" />
+            <img src="/media/samyangResearch.png" alt="" />
+            <img src="/media/samyang4c.png" alt="" />
           </div>
           <div class="mb-5">
             <h3>Strategi</h3>
@@ -96,10 +96,10 @@ export default {
             </p>
           </div>
           <div class="grid grid-cols-4 gap-y-16 mb-10">
-            <img src="/media/samyang/samyangStrategi1.png" alt="" />
-            <img src="/media/samyang/samyangStrategi2.png" alt="" />
-            <img src="/media/samyang/samyangStrategi3.png" alt="" />
-            <img src="/media/samyang/samyangStrategi4.png" alt="" />
+            <img src="/media/samyangStrategi1.png" alt="" />
+            <img src="/media/samyangStrategi2.png" alt="" />
+            <img src="/media/samyangStrategi3.png" alt="" />
+            <img src="/media/samyangStrategi4.png" alt="" />
           </div>
           <div class="mb-5">
             <h3>Visuel identitet inspiration</h3>
@@ -112,11 +112,11 @@ export default {
           </div>
           <div class="grid grid-cols-2 gap-20 gap-y-16 mb-10">
             <div>
-              <img src="/media/samyang/samyangKoreaVisuelt.png" alt="" />
-              <img src="/media/samyang/samyangMinwha.png" alt="" />
+              <img src="/media/samyangKoreaVisuelt.png" alt="" />
+              <img src="/media/samyangMinwha.png" alt="" />
             </div>
 
-            <img src="/media/samyang/samyangLogoInspo.png" alt="" />
+            <img src="/media/samyangLogoInspo.png" alt="" />
           </div>
           <div class="mb-5">
             <h3>Logo</h3>
@@ -129,10 +129,10 @@ export default {
           </div>
           <div class="grid grid-cols-2 gap-20 gap-y-16 mb-10">
             <div>
-              <img src="/media/samyang/samyangSkitser.png" alt="" />
-              <img src="/media/samyang/samyangLogoSkitser.png" alt="" />
+              <img src="/media/samyangSkitser.png" alt="" />
+              <img src="/media/samyangLogoSkitser.png" alt="" />
             </div>
-            <img src="/media/samyang/samyangLogos.png" alt="" />
+            <img src="/media/samyangLogos.png" alt="" />
           </div>
           <div class="mb-5">
             <h3>Farver</h3>
@@ -142,7 +142,7 @@ export default {
               Politiken Plus nye navn "Politken Puls" og den nye visuelle
               identitet.
             </p>
-            <img src="/media/samyang/samyangFarver.png" alt="" />
+            <img src="/media/samyangFarver.png" alt="" />
           </div>
 
           <div class="mb-5">
@@ -153,7 +153,7 @@ export default {
               Politiken Plus nye navn "Politken Puls" og den nye visuelle
               identitet.
             </p>
-            <img src="/media/samyang/samyangGrafik.png" alt="" />
+            <img src="/media/samyangGrafik.png" alt="" />
           </div>
         </div>
       </article>
@@ -163,7 +163,7 @@ export default {
           <h2>Før og efter</h2>
         </article>
 
-        <img src="/media/samyang/samyangFørEfter.png" alt="" />
+        <img src="/media/samyangFørEfter.png" alt="" />
       </section>
     </section>
 

@@ -25,11 +25,7 @@ export default {
       </div>
 
       <div class="grid justify-end">
-        <img
-          class="w-72 h-auto"
-          src="/media/tuborg/tuborgE.Henningsen.jpg"
-          alt=""
-        />
+        <img class="w-72 h-auto" src="/media/tuborgE.Henningsen.jpg" alt="" />
       </div>
     </section>
 
@@ -40,20 +36,17 @@ export default {
           <h3>Plakater</h3>
 
           <div class="grid grid-cols-4 gap-5 gap-y-16">
-            <img src="/media/tuborg/tuborgMand1.png" alt="" />
-            <img src="/media/tuborg/tuborgMand2.png" alt="" />
-            <img src="/media/tuborg/tuborgMand3.png" alt="" />
-            <img src="/media/tuborg/tuborgMand4.png" alt="" />
+            <img src="/media/tuborgMand1.png" alt="" />
+            <img src="/media/tuborgMand2.png" alt="" />
+            <img src="/media/tuborgMand3.png" alt="" />
+            <img src="/media/tuborgMand4.png" alt="" />
           </div>
         </div>
 
         <div class="grid justify-center">
           <h3>Video</h3>
           <video class="w-80" controls>
-            <source
-              src="/media/tuborg/tuborgMandVideo.mp4"
-              type="video/mp4"
-            />
+            <source src="/media/tuborgMandVideo.mp4" type="video/mp4" />
 
             Your browser does not support the video tag.
           </video>
@@ -68,7 +61,7 @@ export default {
             video imens man stiller på mønsteret.
           </p>
           <video class="" controls>
-            <source src="/media/tuborg/tuborgVid.mov" type="video/mp4" />
+            <source src="/media/tuborgVid.mov" type="video/mp4" />
 
             Your browser does not support the video tag.
           </video>

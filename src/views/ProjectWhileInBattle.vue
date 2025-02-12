@@ -27,7 +27,7 @@ export default {
       </div>
 
       <div>
-        <img src="/media/whileInBattle/whilePlakat.png" alt="" />
+        <img src="/media/whilePlakat.png" alt="" />
       </div>
     </section>
 
@@ -46,7 +46,7 @@ export default {
         </p>
       </article>
 
-      <img src="/media/whileInBattle/FarveMoodboard.jpg" alt="" />
+      <img src="/media/FarveMoodboard.jpg" alt="" />
     </section>
 
     <section class="mx-56">
@@ -64,7 +64,7 @@ export default {
         </p>
       </article>
 
-      <img src="/media/whileInBattle/styletyle.png" alt="" />
+      <img src="/media/styletyle.png" alt="" />
     </section>
 
     <section class="mx-56">
@@ -93,17 +93,17 @@ export default {
       <video autoplay loop muted class="z-0 h-fit w-fit object-cover">
         <source
           class="h-full"
-          src="/media/whileInBattle/KampagnesiteMedInteraktivtElementJosefineAlberte.mp4"
+          src="/media/KampagnesiteMedInteraktivtElementJosefineAlberte.mp4"
           type="video/mp4"
         />
 
         Your browser does not support the video tag.
       </video>
       <div class="grid grid-cols-4">
-        <img src="/media/whileInBattle/lightRed.png" alt="" />
-        <img src="/media/whileInBattle/lightOrange.png" alt="" />
-        <img src="/media/whileInBattle/lightGreen.png" alt="" />
-        <img src="/media/whileInBattle/lightBlue.png" alt="" />
+        <img src="/media/lightRed.png" alt="" />
+        <img src="/media/lightOrange.png" alt="" />
+        <img src="/media/lightGreen.png" alt="" />
+        <img src="/media/lightBlue.png" alt="" />
       </div>
     </section>
 
@@ -119,14 +119,11 @@ export default {
 
       <div class="grid grid-cols-2 gap-x-20 gap-y-16"></div>
       <div class="grid grid-cols-2">
-        <img
-          src="/media/whileInBattle/MockupFysiskInstallationJosefineAlberte.png"
-          alt=""
-        />
+        <img src="/media/MockupFysiskInstallationJosefineAlberte.png" alt="" />
         <video autoplay loop muted class="z-0 h-full object-cover">
           <source
             class="h-full"
-            src="/media/whileInBattle/FysiskInstallationVideoJosefineAlberte.mp4"
+            src="/media/FysiskInstallationVideoJosefineAlberte.mp4"
             type="video/mp4"
           />
 
@@ -135,7 +132,7 @@ export default {
       </div>
 
       <div class="mt-20 grid justify-center">
-        <img class="w-96" src="/media/whileInBattle/whilePlakat.png" alt="" />
+        <img class="w-96" src="/media/whilePlakat.png" alt="" />
       </div>
     </section>
 

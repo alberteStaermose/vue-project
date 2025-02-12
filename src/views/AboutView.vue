@@ -33,10 +33,10 @@ export default {
       </div>
 
       <div>
-        <img src="/public/media/A.svg" alt="" />
+        <img src="/media/A.svg" alt="" />
       </div>
 
-      <div><img src="/public/media/mig.jpg" alt="" /></div>
+      <div><img src="/media/mig.jpg" alt="" /></div>
       <div>
         <h2>Interesseret?</h2>
       </div>

@@ -27,7 +27,7 @@ export default {
       </div>
 
       <div>
-        <img src="/media/valor/monstre/valorHeader.png" alt="" />
+        <img src="/media/valorHeader.png" alt="" />
       </div>
     </section>
 
@@ -56,11 +56,11 @@ export default {
 
       <div>
         <h3>Konkurrenter</h3>
-        <img src="/media/valor/Konkurrenter.jpg" alt="" />
+        <img src="/media/Konkurrenter.jpg" alt="" />
       </div>
       <div>
         <h3>Trends og tendenser</h3>
-        <img src="/media/valor/trendsOgTendenser.jpg" alt="" />
+        <img src="/media/trendsOgTendenser.jpg" alt="" />
       </div>
     </section>
 
@@ -76,14 +76,14 @@ export default {
 
       <div class="grid grid-cols-2 gap-x-20 gap-y-16"></div>
       <div class="grid grid-cols-4">
-        <img src="/media/valor/fotostil/rum1.jpg" alt="" />
-        <img src="/media/valor/fotostil/rum2.jpg" alt="" />
-        <img src="/media/valor/fotostil/rum3.jpg" alt="" />
-        <img src="/media/valor/fotostil/rum4.jpg" alt="" />
-        <img src="/media/valor/fotostil/rum5.jpg" alt="" />
-        <img src="/media/valor/fotostil/rum6.jpg" alt="" />
-        <img src="/media/valor/fotostil/rum7.jpg" alt="" />
-        <img src="/media/valor/fotostil/rum8.jpg" alt="" />
+        <img src="/media/rum1.jpg" alt="" />
+        <img src="/media/rum2.jpg" alt="" />
+        <img src="/media/rum3.jpg" alt="" />
+        <img src="/media/rum4.jpg" alt="" />
+        <img src="/media/rum5.jpg" alt="" />
+        <img src="/media/rum6.jpg" alt="" />
+        <img src="/media/rum7.jpg" alt="" />
+        <img src="/media/rum8.jpg" alt="" />
       </div>
     </section>
 
@@ -102,7 +102,7 @@ export default {
         </p>
       </article>
 
-      <img src="/media/valor/Farvepalette.jpg" alt="" />
+      <img src="/media/Farvepalette.jpg" alt="" />
     </section>
 
     <section class="mx-56">
@@ -120,7 +120,7 @@ export default {
         </p>
       </article>
 
-      <img src="/media/valor/logoPosNeg.svg" alt="" />
+      <img src="/media/logoPosNeg.svg" alt="" />
     </section>
 
     <section class="mx-56">
@@ -135,10 +135,10 @@ export default {
       </article>
 
       <div class="grid grid-cols-4">
-        <img src="/media/valor/a/aStol.svg" alt="" />
-        <img src="/media/valor/a/lampe1.svg" alt="" />
-        <img src="/media/valor/a/lampe2.svg" alt="" />
-        <img src="/media/valor/a/reol.svg" alt="" />
+        <img src="/media/aStol.svg" alt="" />
+        <img src="/media/lampe1.svg" alt="" />
+        <img src="/media/lampe2.svg" alt="" />
+        <img src="/media/reol.svg" alt="" />
       </div>
     </section>
 
@@ -178,19 +178,19 @@ export default {
         </p>
       </article>
 
-      <img src="/media/valor/generator.png" alt="" />
+      <img src="/media/generator.png" alt="" />
     </section>
 
     <section class="mx-56">
       <p>Eksempler på eksporterede mønstre, genereret med asset generatoren</p>
-      <img src="/media/valor/genereret1.png" alt="" />
-      <img src="/public/media/valor/genereret2.png" alt="" />
+      <img src="/media/genereret1.png" alt="" />
+      <img src="/public/media/genereret2.png" alt="" />
     </section>
 
     <section class="mx-56">
       <p>Eksempler på hvad de forskellige mønstre kan bruges til</p>
-      <img src="/media/valor/samletAsset1.png" alt="" />
-      <img src="/media/valor/samletAsset2.png" alt="" />
+      <img src="/media/samletAsset1.png" alt="" />
+      <img src="/media/samletAsset2.png" alt="" />
     </section>
 
     <Kontakt></Kontakt>

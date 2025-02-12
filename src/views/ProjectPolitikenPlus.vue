@@ -25,7 +25,7 @@ export default {
       </div>
 
       <div>
-        <img src="/media/politikenPlus/pulsPolitikenLogo.png" alt="" />
+        <img src="/media/pulsPolitikenLogo.png" alt="" />
       </div>
     </section>
     <section class="px-56">
@@ -42,35 +42,32 @@ export default {
           </div>
 
           <video autoplay loop muted class="z-0 w-auto max-h-full object-cover">
-            <source
-              src="/media/politikenPlus/pulsHjemmeside.mov"
-              type="video/mp4"
-            />
+            <source src="/media/pulsHjemmeside.mov" type="video/mp4" />
             Your browser does not support the video tag.
           </video>
         </div>
         <div class="grid grid-cols-2">
-          <img src="/media/politikenPlus/pulsEks1.png" alt="" />
-          <img src="/media/politikenPlus/pulsEks2.png" alt="" />
+          <img src="/media/pulsEks1.png" alt="" />
+          <img src="/media/pulsEks2.png" alt="" />
         </div>
       </article>
 
       <div class="grid grid-cols-2 gap-20">
         <div>
           <h3>Logo</h3>
-          <img src="/media/politikenPlus/pulsLogo.png" alt="" />
+          <img src="/media/pulsLogo.png" alt="" />
         </div>
         <div>
           <h3>Grafik</h3>
-          <img src="/media/politikenPlus/pulsGrafik.png" alt="" />
+          <img src="/media/pulsGrafik.png" alt="" />
         </div>
         <div>
           <h3>Farver</h3>
-          <img src="/media/politikenPlus/pulsFarver.png" alt="" />
+          <img src="/media/pulsFarver.png" alt="" />
         </div>
         <div>
           <h3>Billedestil</h3>
-          <img src="/media/politikenPlus/pulsBilledstil.png" alt="" />
+          <img src="/media/pulsBilledstil.png" alt="" />
         </div>
       </div>
     </section>
@@ -96,21 +93,21 @@ export default {
       <div class="grid grid-cols-2 gap-20">
         <div>
           <h3>Politken</h3>
-          <img src="/media/politikenPlus/pulsPolitiken.png" alt="" />
+          <img src="/media/pulsPolitiken.png" alt="" />
         </div>
         <div>
           <h3>Konkurrenter</h3>
-          <img src="/media/politikenPlus/pulsKonkurrenter.png" alt="" />
+          <img src="/media/pulsKonkurrenter.png" alt="" />
         </div>
         <div>
           <h3>Trends og tendenser</h3>
-          <img src="/media/politikenPlus/pulsTrends.png" alt="" />
-          <img src="/media/politikenPlus/pulsTendenser.png" alt="" />
+          <img src="/media/pulsTrends.png" alt="" />
+          <img src="/media/pulsTendenser.png" alt="" />
         </div>
         <div>
           <h3>Forbrugere</h3>
-          <img src="/media/politikenPlus/pulsForbruger.png" alt="" />
-          <img src="/media/politikenPlus/pulsForbrugerIndsigt.png" alt="" />
+          <img src="/media/pulsForbruger.png" alt="" />
+          <img src="/media/pulsForbrugerIndsigt.png" alt="" />
         </div>
       </div>
     </section>
@@ -127,13 +124,13 @@ export default {
 
       <div class="grid grid-cols-2 gap-x-20 gap-y-16"></div>
       <div class="grid grid-cols-3">
-        <img src="/media/politikenPlus/pulsAmbition.png" alt="" />
-        <img src="/media/politikenPlus/pulsWhy.png" alt="" />
-        <img src="/media/politikenPlus/pulsHvadogHvordan.png" alt="" />
-        <img src="/media/politikenPlus/pulsVærdier.png" alt="" />
-        <img src="/media/politikenPlus/pulsDifferentiering.png" alt="" />
-        <img src="/media/politikenPlus/pulsHvem.png" alt="" />
-        <img src="/media/politikenPlus/pulsPersonlighed.png" alt="" />
+        <img src="/media/pulsAmbition.png" alt="" />
+        <img src="/media/pulsWhy.png" alt="" />
+        <img src="/media/pulsHvadogHvordan.png" alt="" />
+        <img src="/media/pulsVærdier.png" alt="" />
+        <img src="/media/pulsDifferentiering.png" alt="" />
+        <img src="/media/pulsHvem.png" alt="" />
+        <img src="/media/pulsPersonlighed.png" alt="" />
       </div>
     </section>
 
