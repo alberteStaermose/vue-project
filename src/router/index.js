@@ -3,7 +3,7 @@ import HomeView from "../views/HomeView.vue";
 import AboutView from "../views/AboutView.vue";
 import ProjectsView from "../views/ProjectsView.vue";
 import ProjectOneView from "../views/ProjectOneView.vue";
-import ProjectWhileInBattle from "../views/ProjectWhileInBattle.vue";
+// import ProjectWhileInBattle from "../views/ProjectWhileInBattle.vue";
 import ProjectPolitikenPlus from "../views/ProjectPolitikenPlus.vue";
 import ProjectSamyang from "../views/ProjectSamyang.vue";
 import ProjectCafeSonja from "../views/ProjectCafeSonja.vue";
@@ -36,12 +36,12 @@ const router = createRouter({
 
       component: ProjectOneView,
     },
-    {
-      path: "/projektWhileInBattle",
-      name: "projektWhileInBattle",
+    // {
+    //   path: "/projektWhileInBattle",
+    //   name: "projektWhileInBattle",
 
-      component: ProjectWhileInBattle,
-    },
+    //   component: ProjectWhileInBattle,
+    // },
     {
       path: "/projectPolitikenPlus",
       name: "projectPolitikenPlus",

@@ -1,4 +1,4 @@
-<script>
+<!-- <script>
 import Kontakt from "../components/Kontakt.vue";
 
 export default {
@@ -147,4 +147,4 @@ export default {
 svg {
   fill: blue;
 }
-</style>
+</style> -->
