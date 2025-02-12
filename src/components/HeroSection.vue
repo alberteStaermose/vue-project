@@ -8,7 +8,7 @@
         </div>
       </div>
 
-      <!-- <video
+      <video
         autoplay
         loop
         muted
@@ -16,10 +16,10 @@
       >
         <source
           class="lg:fixed absolute"
-          src="./img/cirklerNy.mp4 "
+          src="/src/components/img/circlerNy.mp4"
           type="video/mp4"
         />
-      </video> -->
+      </video>
     </div>
 
     <!-- <div class="bg-rose-300">

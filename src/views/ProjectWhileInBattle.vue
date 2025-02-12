@@ -27,7 +27,7 @@ export default {
       </div>
 
       <div>
-        <!-- <img src="/public/media/whileInBattle/whilePlakat.png" alt="" /> -->
+        <img src="/public/media/whileInBattle/whilePlakat.png" alt="" />
       </div>
     </section>
 
@@ -132,6 +132,14 @@ export default {
 
           Your browser does not support the video tag.
         </video>
+      </div>
+
+      <div class="mt-20 grid justify-center">
+        <img
+          class="w-96"
+          src="/public/media/whileInBattle/whilePlakat.png"
+          alt=""
+        />
       </div>
     </section>
 
