@@ -28,7 +28,7 @@ export default {
       </div>
 
       <div>
-        <img src="/public/media/samyang/samyangOgMarkedet.png" alt="" />
+        <img src="/media/samyang/samyangOgMarkedet.png" alt="" />
       </div>
     </section>
 
@@ -50,9 +50,9 @@ export default {
             </p>
           </div>
           <div class="grid grid-cols-3 gap-y-16 mb-10">
-            <img src="/public/media/sonja/sonjaStrategi1.png" alt="" />
-            <img src="/public/media/sonja/sonjaStrategi2.png" alt="" />
-            <img src="/public/media/sonja/sonjaStrategi3.png" alt="" />
+            <img src="/media/sonja/sonjaStrategi1.png" alt="" />
+            <img src="/media/sonja/sonjaStrategi2.png" alt="" />
+            <img src="/media/sonja/sonjaStrategi3.png" alt="" />
           </div>
         </div>
         <div>
@@ -91,10 +91,10 @@ export default {
             </p>
           </div>
           <div class="grid grid-cols-2 gap-20 gap-y-16 mb-10">
-            <img src="/public/media/sonja/sonjaLogo2.png" alt="" />
-            <img src="/public/media/sonja/sonjaBilledstil.png" alt="" />
-            <img src="/public/media/sonja/sonjaGrafik.png" alt="" />
-            <img src="/public/media/sonja/sonjaFarver.png" alt="" />
+            <img src="/media/sonja/sonjaLogo2.png" alt="" />
+            <img src="/media/sonja/sonjaBilledstil.png" alt="" />
+            <img src="/media/sonja/sonjaGrafik.png" alt="" />
+            <img src="/media/sonja/sonjaFarver.png" alt="" />
           </div>
         </div>
         <div>
@@ -108,14 +108,14 @@ export default {
             </p>
           </div>
           <div class="grid grid-cols-1 gap-20 gap-y-16 ml-40 mr-40">
-            <img src="/public/media/sonja/sonjaInsta.png" alt="" />
-            <img src="/public/media/sonja/sonjaMenu.png" alt="" />
+            <img src="/media/sonja/sonjaInsta.png" alt="" />
+            <img src="/media/sonja/sonjaMenu.png" alt="" />
           </div>
         </div>
         <div>
           <div class="">
             <h3>Samlet overblik</h3>
-            <img src="/public/media/sonja/sonjaIdentitet.png" alt="" />
+            <img src="/media/sonja/sonjaIdentitet.png" alt="" />
           </div>
         </div>
       </article>

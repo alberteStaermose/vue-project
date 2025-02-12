@@ -18,16 +18,16 @@ export default {
       <div>
         <h2>Opgaven</h2>
         <p>
-          Dette var en skoleopgave og den gik ud på at opsætte en visuel identitet, animere et
-          navnetræk, samt lave en asset generator til en fiktiv kunde. Jeg fik
-          tildelt, møbelbutik og har fra research, viden om form, farver,
-          typografi, tegning, kreativitet og programmering udarbejdet
-          møbelbutikken Valør.
+          Dette var en skoleopgave og den gik ud på at opsætte en visuel
+          identitet, animere et navnetræk, samt lave en asset generator til en
+          fiktiv kunde. Jeg fik tildelt, møbelbutik og har fra research, viden
+          om form, farver, typografi, tegning, kreativitet og programmering
+          udarbejdet møbelbutikken Valør.
         </p>
       </div>
 
       <div>
-        <img src="/public/media/valor/monstre/valorHeader.png" alt="" />
+        <img src="/media/valor/monstre/valorHeader.png" alt="" />
       </div>
     </section>
 
@@ -56,11 +56,11 @@ export default {
 
       <div>
         <h3>Konkurrenter</h3>
-        <img src="/public/media/valor/Konkurrenter.jpg" alt="" />
+        <img src="/media/valor/Konkurrenter.jpg" alt="" />
       </div>
       <div>
         <h3>Trends og tendenser</h3>
-        <img src="/public/media/valor/trendsOgTendenser.jpg" alt="" />
+        <img src="/media/valor/trendsOgTendenser.jpg" alt="" />
       </div>
     </section>
 
@@ -76,14 +76,14 @@ export default {
 
       <div class="grid grid-cols-2 gap-x-20 gap-y-16"></div>
       <div class="grid grid-cols-4">
-        <img src="/public/media/valor/fotostil/rum1.jpg" alt="" />
-        <img src="/public/media/valor/fotostil/rum2.jpg" alt="" />
-        <img src="/public/media/valor/fotostil/rum3.jpg" alt="" />
-        <img src="/public/media/valor/fotostil/rum4.jpg" alt="" />
-        <img src="/public/media/valor/fotostil/rum5.jpg" alt="" />
-        <img src="/public/media/valor/fotostil/rum6.jpg" alt="" />
-        <img src="/public/media/valor/fotostil/rum7.jpg" alt="" />
-        <img src="/public/media/valor/fotostil/rum8.jpg" alt="" />
+        <img src="/media/valor/fotostil/rum1.jpg" alt="" />
+        <img src="/media/valor/fotostil/rum2.jpg" alt="" />
+        <img src="/media/valor/fotostil/rum3.jpg" alt="" />
+        <img src="/media/valor/fotostil/rum4.jpg" alt="" />
+        <img src="/media/valor/fotostil/rum5.jpg" alt="" />
+        <img src="/media/valor/fotostil/rum6.jpg" alt="" />
+        <img src="/media/valor/fotostil/rum7.jpg" alt="" />
+        <img src="/media/valor/fotostil/rum8.jpg" alt="" />
       </div>
     </section>
 
@@ -102,7 +102,7 @@ export default {
         </p>
       </article>
 
-      <img src="/public/media/valor/Farvepalette.jpg" alt="" />
+      <img src="/media/valor/Farvepalette.jpg" alt="" />
     </section>
 
     <section class="mx-56">
@@ -120,7 +120,7 @@ export default {
         </p>
       </article>
 
-      <img src="/public/media/valor/logoPosNeg.svg" alt="" />
+      <img src="/media/valor/logoPosNeg.svg" alt="" />
     </section>
 
     <section class="mx-56">
@@ -135,10 +135,10 @@ export default {
       </article>
 
       <div class="grid grid-cols-4">
-        <img src="/public/media/valor/a/aStol.svg" alt="" />
-        <img src="/public/media/valor/a/lampe1.svg" alt="" />
-        <img src="/public/media/valor/a/lampe2.svg" alt="" />
-        <img src="/public/media/valor/a/reol.svg" alt="" />
+        <img src="/media/valor/a/aStol.svg" alt="" />
+        <img src="/media/valor/a/lampe1.svg" alt="" />
+        <img src="/media/valor/a/lampe2.svg" alt="" />
+        <img src="/media/valor/a/reol.svg" alt="" />
       </div>
     </section>
 
@@ -156,7 +156,7 @@ export default {
       </article>
 
       <video controls>
-        <source src="/public/media/valør.mp4" type="video/mp4" />
+        <source src="/media/valør.mp4" type="video/mp4" />
 
         Your browser does not support the video tag.
       </video>
@@ -178,19 +178,19 @@ export default {
         </p>
       </article>
 
-      <img src="/public/media/valor/generator.png" alt="" />
+      <img src="/media/valor/generator.png" alt="" />
     </section>
 
     <section class="mx-56">
       <p>Eksempler på eksporterede mønstre, genereret med asset generatoren</p>
-      <img src="/public/media/valor/genereret1.png" alt="" />
+      <img src="/media/valor/genereret1.png" alt="" />
       <img src="/public/media/valor/genereret2.png" alt="" />
     </section>
 
     <section class="mx-56">
       <p>Eksempler på hvad de forskellige mønstre kan bruges til</p>
-      <img src="/public/media/valor/samletAsset1.png" alt="" />
-      <img src="/public/media/valor/samletAsset2.png" alt="" />
+      <img src="/media/valor/samletAsset1.png" alt="" />
+      <img src="/media/valor/samletAsset2.png" alt="" />
     </section>
 
     <Kontakt></Kontakt>

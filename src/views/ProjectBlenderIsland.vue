@@ -22,7 +22,7 @@ export default {
           tøjler og rig mulighed for at fortolke "Ø" gik jeg ellers i gang.
         </p>
       </div>
-      <img src="/public/media/blender/blenderØen1.png" alt="" />
+      <img src="/media/blender/blenderØen1.png" alt="" />
     </section>
 
     <section class="px-56">
@@ -31,9 +31,9 @@ export default {
           <h2>Løsning</h2>
 
           <div class="grid grid-cols-3 gap-5 gap-y-16">
-            <img src="/public/media/blender/blenderØen1.png" alt="" />
-            <img src="/public/media/blender/blenderØen2.png" alt="" />
-            <img src="/public/media/blender/blenderØen3.png" alt="" />
+            <img src="/media/blender/blenderØen1.png" alt="" />
+            <img src="/media/blender/blenderØen2.png" alt="" />
+            <img src="/media/blender/blenderØen3.png" alt="" />
           </div>
         </div>
         <div>
@@ -46,8 +46,8 @@ export default {
             til en.
           </p>
           <div class="grid grid-cols-2 gap-5 gap-y-16">
-            <img src="/public/media/blender/blenderSkitse1.jpeg" alt="" />
-            <img src="/public/media/blender/blenderSkitse2.jpeg" alt="" />
+            <img src="/media/blender/blenderSkitse1.jpeg" alt="" />
+            <img src="/media/blender/blenderSkitse2.jpeg" alt="" />
           </div>
         </div>
         <div>
@@ -73,19 +73,19 @@ export default {
         </div>
         <div>
           <div class="grid grid-cols-1 gap-2">
-            <img src="/public/media/blender/blenderProces1.png" alt="" />
-            <img src="/public/media/blender/blenderProces2.png" alt="" />
-            <img src="/public/media/blender/blenderProces3.png" alt="" />
-            <img src="/public/media/blender/blenderProces4.png" alt="" />
-            <img src="/public/media/blender/blenderProces5.png" alt="" />
-            <img src="/public/media/blender/blenderProces6.png" alt="" />
+            <img src="/media/blender/blenderProces1.png" alt="" />
+            <img src="/media/blender/blenderProces2.png" alt="" />
+            <img src="/media/blender/blenderProces3.png" alt="" />
+            <img src="/media/blender/blenderProces4.png" alt="" />
+            <img src="/media/blender/blenderProces5.png" alt="" />
+            <img src="/media/blender/blenderProces6.png" alt="" />
           </div>
         </div>
         <div>
           <p>Lille sprutte 3D-printet</p>
           <div class="grid grid-cols-2 gap-5 gap-y-16">
-            <img src="/public/media/blender/blenderPrint1.jpeg" alt="" />
-            <img src="/public/media/blender/blenderPrint2.jpeg" alt="" />
+            <img src="/media/blender/blenderPrint1.jpeg" alt="" />
+            <img src="/media/blender/blenderPrint2.jpeg" alt="" />
           </div>
         </div>
       </article>
